@@ -20,7 +20,7 @@
 
 ### 💡 Sobre Mim
 
-- 🔭 Atualmente estou trabalhando como **Desenvolvedor Full-Stack**.
+- 🔭 Atualmente estou atuando como **Desenvolvedor Full-Stack**.
 - 🌱 Aprendendo mais sobre **Arquitetura de Microsserviços e DevOps**.
 - 💬 Me chame para falar sobre **JavaScript, React, Node.js e design de sistemas**.
 - ⚡ Fato engraçado: Consigo centralizar uma div... na maioria das vezes.
